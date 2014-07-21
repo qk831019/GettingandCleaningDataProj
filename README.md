@@ -17,7 +17,7 @@ Here are the data for the project:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-The R file "Cleaning.R") hass 6 parts as below:
+The R file "Cleaning.R" hass 6 parts as below:
 
 1. Uses read.table functions to read in the all training/test data, as well as the features and activity.
 
